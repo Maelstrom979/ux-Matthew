@@ -1,6 +1,7 @@
 # Matthew's UX Journal
 
 **What is Deadlock?**
+
   Deadlock is a third person hero shooter MOBA (Multiplayer Online Battle Arena) game. There are 6 people on each team with the primary goal being to get to the enemies base and destroy it before they do the same to your own. It is currently in a closed beta state, which means only people who are invited to play the game by one of their friends are able to play it. Given the state the game is in, several criticisms made throughout this are subject to change as the game gets further along in development or fully releases
 
   When you first open the game, you spawn into a room with the only thing in clear view being a table to interact with to play the game. The issue with this however, is that it doesn’t encourage the player to do any sort of tutorial. In fact, to do the tutorial, you have to walk around the room and interact with a relatively random chair that has the text “Learn To Play” over it.
