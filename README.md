@@ -4,11 +4,11 @@
   Deadlock is a third person hero shooter MOBA (Multiplayer Online Battle Arena) game. There are 6 people on each team with the primary goal being to get to the enemies base and destroy it before they do the same to your own. It is currently in a closed beta state, which means only people who are invited to play the game by one of their friends are able to play it. Given the state the game is in, several criticisms made throughout this are subject to change as the game gets further along in development or fully releases
 
   When you first open the game, you spawn into a room with the only thing in clear view being a table to interact with to play the game. The issue with this however, is that it doesn’t encourage the player to do any sort of tutorial. In fact, to do the tutorial, you have to walk around the room and interact with a relatively random chair that has the text “Learn To Play” over it.
-<img width="1280" height="800" alt="Screenshot 2026-11-11 135713" src="https://github.com/user-attachments/assets/95ba8ac7-dfa1-4e2f-8b6c-68d2b246a8d6" />
+<img width="640" height="400" alt="Screenshot 2026-11-11 135713" src="https://github.com/user-attachments/assets/95ba8ac7-dfa1-4e2f-8b6c-68d2b246a8d6" />
   For the most part, this is how the game looks when a player opens it for the very first time with a few exceptions (The top right icon, the statistics in the top right wouldn’t be there, and I’m not sure what character the game initially spawns you as). 
-<img width="1280" height="800" alt="Screenshot 2026-11-11 135927" src="https://github.com/user-attachments/assets/ab4ce3f8-2126-4f7f-8127-c864e5e493b6" />
+<img width="640" height="400" alt="Screenshot 2026-11-11 135927" src="https://github.com/user-attachments/assets/ab4ce3f8-2126-4f7f-8127-c864e5e493b6" />
   When you walk up to the play table, even if you do look around, the “Learn To Play” text over the tutorial chair is transparent and relatively hard to see. 
-<img width="1280" height="800" alt="Screenshot 2026-11-11 143937" src="https://github.com/user-attachments/assets/7c5f3043-2a97-4797-9f4e-d7b5811a7010" />
+<img width="640" height="400" alt="Screenshot 2026-11-11 143937" src="https://github.com/user-attachments/assets/7c5f3043-2a97-4797-9f4e-d7b5811a7010" />
   When you interact with the table in front of you, the biggest button on the menu is to play against real people without any option on screen to do the tutorial. There is an option to play against bots to better learn the game without real people, but the button to play in that way is relatively small and not as inviting to press as the bigger buttons.
 
 **Looking at the 3 key elements of Usability, would this be considered a good user experience when first picking up the game?**
